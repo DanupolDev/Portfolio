@@ -54,11 +54,11 @@ const about = () => {
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">
                 Biography
               </h2>
-              <p className="font-medium">Hi, I'm Danupol Aiamasirichot.</p>
+              <p className="font-medium">Hi, I&apos;m Danupol Aiamasirichot.</p>
               <p className="my-4 font-medium">
                 I believe that design is about more than just making things look
-                pretty – it's about solving problems and creating intuitive,
-                enjoyable experiences for users.
+                pretty – it&apos;s about solving problems and creating
+                intuitive, enjoyable experiences for users.
               </p>
             </div>
             <div className="col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 dark:bg-dark dark:border-light xl:col-span-4 md:order-1 md:col-span-8">
